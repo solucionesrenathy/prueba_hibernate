@@ -1,0 +1,8 @@
+com\ejemplocom\ejemplo\loguinjavafx\util\SesionUsuario.class
+com\ejemplocom\ejemplo\loguinjavafx\App.class
+com\ejemplocom\ejemplo\loguinjavafx\dao\UsuarioDAO.class
+com\ejemplocom\ejemplo\loguinjavafx\LoginController.class
+com\ejemplocom\ejemplo\loguinjavafx\HomeController.class
+com\ejemplocom\ejemplo\loguinjavafx\util\HashUtil.class
+com\ejemplocom\ejemplo\loguinjavafx\entidades\Usuario.class
+com\ejemplocom\ejemplo\loguinjavafx\util\HibernateUtil.class
